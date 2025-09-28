@@ -25,16 +25,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=just0dj&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just0dj&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-  <img src="![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-" height="160"/>
+  <img src="![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)" height="160"/>
+  <img src="[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=Just0DJ)](https://www.last.fm/user/Just0DJ)" height="160"/>
 </p>
 
 ---
 ### 🎧 Currently Listening
 
-[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=DiJay)](https://www.last.fm/user/DiJay)
 
-https://open.spotify.com/user/31sg6je3uruhskhhludqaewx5vhe?si=a9f2c86fd845481b
 ---
 
 ## 🚀 Featured Projects
