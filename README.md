@@ -27,10 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just0dj&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
----
-
-## ✨ Extra Widgets
-
 ### 📜 Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
