@@ -30,11 +30,11 @@
 ### 📜 Quote of the Day & 🎶 Recently Played on Spotify (via Last.fm)
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Quote of the Day"  height="200"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Quote of the Day"  height="250"/>
 </p>
 <p align="center">
   <a href="https://www.last.fm/user/Just0DJ">
-    <img src="https://lastfm-recently-played.vercel.app/api?user=Just0DJ&theme=tokyonight" alt="Recently Played on Last.fm"  height="200"/>
+    <img src="https://lastfm-recently-played.vercel.app/api?user=Just0DJ&theme=tokyonight" alt="Recently Played on Last.fm"  height="250"/>
   </a>
 </p>
 
