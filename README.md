@@ -28,10 +28,20 @@
 </p>
 
 ### 📜 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day"/>
+</p>
+
 
 ### 🎶 Recently Played on Spotify (via Last.fm)
-[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=Just0DJ)](https://www.last.fm/user/Just0DJ)
+
+<p align="center">
+  <a href="https://www.last.fm/user/Just0DJ">
+    <img src="https://lastfm-recently-played.vercel.app/api?user=Just0DJ&theme=tokyonight" alt="Recently Played on Last.fm"/>
+  </a>
+</p>
+
 
 ---
 
