@@ -29,9 +29,7 @@
   <img src="[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=Just0DJ)](https://www.last.fm/user/Just0DJ)" height="160"/>
 </p>
 
----
-### 🎧 Currently Listening
-
+[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=Just0DJ)](https://www.last.fm/user/Just0DJ)
 
 ---
 
