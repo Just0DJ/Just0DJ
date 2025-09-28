@@ -30,7 +30,7 @@
 ### 📜 Quote of the Day & 🎶 Recently Played on Spotify (via Last.fm)
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Quote of the Day"  height="250"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day"  height="200"/>
 </p>
 <p align="center">
   <a href="https://www.last.fm/user/Just0DJ">
