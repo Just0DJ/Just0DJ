@@ -23,14 +23,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=just0dj&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just0dj&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=just0dj&show_icons=true&theme=tokyonight" alt="GitHub stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just0dj&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
 </p>
 
 ### 📜 Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Quote of the Day"/>
 </p>
 
 
