@@ -14,8 +14,8 @@
 ---
 
 ## 🛠️ Tech & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fusion360,solidworks,cpp,python,html,css,javascript,mysql,git,github,autocad" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=autodeskfusion360,solidworks,cpp,python,html,css,javascript,mysql,git,github,autocad" />
 </p>
 
 ---
@@ -27,21 +27,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just0dj&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
 </p>
 
-### 📜 Quote of the Day
+### 📜 Quote of the Day & 🎶 Recently Played on Spotify (via Last.fm)
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Quote of the Day"/>
-</p>
-
-
-### 🎶 Recently Played on Spotify (via Last.fm)
-
-<p align="center">
   <a href="https://www.last.fm/user/Just0DJ">
     <img src="https://lastfm-recently-played.vercel.app/api?user=Just0DJ&theme=tokyonight" alt="Recently Played on Last.fm"/>
   </a>
 </p>
-
 
 ---
 
