@@ -32,8 +32,9 @@
 ---
 ### 🎧 Currently Listening
 
-[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=YOUR_LASTFM_USERNAME)](https://www.last.fm/user/YOUR_LASTFM_USERNAME)
+[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=DiJay)](https://www.last.fm/user/DiJay)
 
+https://open.spotify.com/user/31sg6je3uruhskhhludqaewx5vhe?si=a9f2c86fd845481b
 ---
 
 ## 🚀 Featured Projects
