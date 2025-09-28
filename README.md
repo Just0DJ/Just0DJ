@@ -25,15 +25,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=just0dj&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just0dj&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+" height="160"/>
 </p>
 
 ---
+### 🎧 Currently Listening
 
-## 🔥 Streaks & Activity
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=just0dj&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=just0dj&theme=tokyo-night" height="200"/>
-</p>
+[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=YOUR_LASTFM_USERNAME)](https://www.last.fm/user/YOUR_LASTFM_USERNAME)
 
 ---
 
