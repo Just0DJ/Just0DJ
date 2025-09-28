@@ -23,8 +23,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=just0dj&show_icons=true&theme=tokyonight" alt="GitHub stats" height="120"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just0dj&layout=compact&theme=tokyonight" alt="Top Languages" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=just0dj&show_icons=true&theme=tokyonight" alt="GitHub stats" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just0dj&layout=compact&theme=tokyonight" alt="Top Languages" height="130"/>
 </p>
 
 ### 📜 Quote of the Day & 🎶 Recently Played on Spotify (via Last.fm)
@@ -32,7 +32,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Quote of the Day"  height="150"/>
 </p>
-<p>
+<p align="center">
   <a href="https://www.last.fm/user/Just0DJ">
     <img src="https://lastfm-recently-played.vercel.app/api?user=Just0DJ&theme=tokyonight" alt="Recently Played on Last.fm"  height="150"/>
   </a>
