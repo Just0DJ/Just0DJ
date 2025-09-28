@@ -23,16 +23,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=just0dj-github-username&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just0dj-github-username&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=just0dj&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just0dj&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
 ---
 
 ## 🔥 Streaks & Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=just0dj-github-username&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=just0dj-github-username&theme=tokyo-night" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=just0dj&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=just0dj&theme=tokyo-night" height="200"/>
 </p>
 
 ---
