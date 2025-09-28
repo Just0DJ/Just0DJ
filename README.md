@@ -25,24 +25,30 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=just0dj&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just0dj&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-  <img src="![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)" height="160"/>
-  <img src="[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=Just0DJ)](https://www.last.fm/user/Just0DJ)" height="160"/>
 </p>
 
+---
+
+## ✨ Extra Widgets
+
+### 📜 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🎶 Recently Played on Spotify (via Last.fm)
 [![Last.fm](https://lastfm-recently-played.vercel.app/api?user=Just0DJ)](https://www.last.fm/user/Just0DJ)
 
 ---
 
 ## 🚀 Featured Projects
-- 🛰️ [Mars Rover Mechanism Design]("https://www.instagram.com/p/DJv-9M2NCVi/?utm_source=ig_web_button_share_sheet&igsh=Ym5ydWxkdXhxN2g3") – CAD + Assembly work for international competition
-- ⚡ [Electricity Billing System]("https://github.com/Just0DJ/Electricity-billing-system-project") – Python + MySQL project with ASCII UI
+- 🛰️ [Mars Rover Mechanism Design](https://www.instagram.com/p/DJv-9M2NCVi/?utm_source=ig_web_button_share_sheet&igsh=Ym5ydWxkdXhxN2g3) – CAD + Assembly work for international competition  
+- ⚡ [Electricity Billing System](https://github.com/Just0DJ/Electricity-billing-system-project) – Python + MySQL project with ASCII UI  
 
 ---
 
 ## 🎭 Fun Zone
-- 🎵 Fav Anime: *Tōkyō Gūru*
-- 📸 Love Photography
-- 👀 Procastinating till the deadline
+- 🎵 Fav Anime: *Tōkyō Gūru*  
+- 📸 Love Photography  
+- 👀 Procrastinating till the deadline  
 
 ---
 
