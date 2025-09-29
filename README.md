@@ -1,8 +1,11 @@
-# Hi there 👋, I'm DiJay
-<p align="right">
-  <a href="https://www.linkedin.com/in/IamDijay"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
-  <a href="https://www.instagram.com/just0dj"><img src="https://skillicons.dev/icons?i=instagram" height="40"></a>
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h1>Hi there 👋, I'm DiJay</h1>
+  <p>
+    <a href="https://www.linkedin.com/in/IamDijay"><img src="https://skillicons.dev/icons?i=linkedin" height="30"></a>
+    <a href="https://www.instagram.com/just0dj"><img src="https://skillicons.dev/icons?i=instagram" height="30"></a>
+  </p>
+</div>
+
 🚀 Mechanical Engineering student | 🏢 Ex - Summer intern @ TECH MAHINDRA | 🌌 Robotics & Automation Enthusiast | ⚙️ Builder at MaRS Club | 📷 Photographer
 
 ---
