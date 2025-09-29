@@ -40,7 +40,7 @@
 </p>
 
 ## 📫 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/IamDijay"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
   <a href="https://www.instagram.com/just0dj"><img src="https://skillicons.dev/icons?i=instagram" height="40"></a>
 </p>
