@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: right;">
   <h1>Hi there 👋, I'm DiJay</h1>
   <p>
     <a href="https://www.linkedin.com/in/IamDijay"><img src="https://skillicons.dev/icons?i=linkedin" height="30"></a>
