@@ -1,6 +1,8 @@
 # Hi there 👋, I'm DiJay 
-<a href="https://www.linkedin.com/in/IamDijay"><img src="https://skillicons.dev/icons?i=linkedin" height="30"></a>
-<a href="https://www.instagram.com/just0dj"><img src="https://skillicons.dev/icons?i=instagram" height="30"></a>
+<p align="right"> 
+  <a href="https://www.linkedin.com/in/IamDijay"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a> 
+  <a href="https://www.instagram.com/just0dj"><img src="https://skillicons.dev/icons?i=instagram" height="40"></a> 
+</p>
 
 
 🚀 Mechanical Engineering student | 🏢 Ex - Summer intern @ TECH MAHINDRA | 🌌 Robotics & Automation Enthusiast | ⚙️ Builder at MaRS Club | 📷 Photographer
@@ -41,6 +43,3 @@
     <img src="https://lastfm-recently-played.vercel.app/api?user=Just0DJ&theme=tokyonight" alt="Recently Played on Last.fm"  height="250"/>
   </a>
 </p>
-
-## 📫 Connect with Me
-
