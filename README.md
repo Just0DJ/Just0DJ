@@ -10,6 +10,8 @@
 - 🏢 Ex - Summer Mechanical/Data engineer intern at Tech Mahindra
 - 🎨 Hobbies: Photography, Sketching, Poetry
 - 🎯 Goal: Graduate with a content life & explore opportunities abroad
+- 🎵 Fav Anime: *Tōkyō Gūru*  
+- 👀 Procrastinating till the deadline  
 
 ---
 
@@ -36,21 +38,6 @@
     <img src="https://lastfm-recently-played.vercel.app/api?user=Just0DJ&theme=tokyonight" alt="Recently Played on Last.fm"  height="250"/>
   </a>
 </p>
-
----
-
-## 🚀 Featured Projects
-- 🛰️ [Mars Rover Mechanism Design](https://www.instagram.com/p/DJv-9M2NCVi/?utm_source=ig_web_button_share_sheet&igsh=Ym5ydWxkdXhxN2g3) – CAD + Assembly work for international competition  
-- ⚡ [Electricity Billing System](https://github.com/Just0DJ/Electricity-billing-system-project) – Python + MySQL project with ASCII UI  
-
----
-
-## 🎭 Fun Zone
-- 🎵 Fav Anime: *Tōkyō Gūru*  
-- 📸 Love Photography  
-- 👀 Procrastinating till the deadline  
-
----
 
 ## 📫 Connect with Me
 <p align="left">
