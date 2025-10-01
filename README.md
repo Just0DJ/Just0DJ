@@ -15,7 +15,7 @@
 - 🏢 Ex - Summer Mechanical/Data engineer intern at Tech Mahindra
 - 🎨 Hobbies: Photography, Sketching, Poetry
 - 🎯 Goal: Graduate with a content life & explore opportunities abroad
-- 🎵 Fav Anime: *Tōkyō Gūru*  
+- 🎵 Fav Anime: *The Fullmetal Alchemist: 鋼の錬金術師*  
 - 👀 Procrastinating till the deadline  
 
 ---
