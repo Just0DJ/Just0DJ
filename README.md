@@ -4,8 +4,13 @@
   <a href="https://www.instagram.com/just0dj"><img src="https://skillicons.dev/icons?i=instagram" height="40"></a> 
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="just0dj's GitHub profile" src="dark_mode.svg" />
+</picture>
 
-🚀 Mechanical Engineering student | 🏢 Ex - Summer intern @ TECH MAHINDRA | 🌌 Robotics & Automation Enthusiast | ⚙️ Builder at MaRS Club | 📷 Photographer
+🚀 Mechanical Engineering student | Ex - ReConnect Intern| 🏢 Ex - TECH MAHINDRA Intern | 🌌 Robotics & Automation Enthusiast | ⚙️ Builder at MaRS Club | 📷 Photographer
 
 ---
 
