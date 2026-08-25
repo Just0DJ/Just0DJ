@@ -16,7 +16,7 @@
 
 ---
 
-# **About Me**
+### **About Me**
 - 🔭 Currently exploring **Robotics & Automation & Battery Tech**
 - 🛰️ Member of **MaRS Rover Society** (Mechanical team – design & assembly)
 - **Experience**:
@@ -30,7 +30,7 @@
 
 ---
 
-# Quote & Recently Played
+### Quote & Recently Played
 
 <p align="center">
   <a href="https://www.last.fm/user/Just0DJ">
