@@ -12,7 +12,7 @@
 
 ---
 
-🚀 Mechanical Engineering student | Ex - ReConnect Intern| 🏢 Ex - TECH MAHINDRA Intern | 🌌 Robotics & Automation Enthusiast | ⚙️ Builder at MaRS Club | 📷 Photographer
+🚀 Mech Engg student | Ex - ReConnect Intern | 🏢 Ex - TECH MAHINDRA Intern | 🌌 Robotics & Automation Enthusiast | ⚙️ Ex - MaRS Research  | 📷 Photographer
 
 ---
 
