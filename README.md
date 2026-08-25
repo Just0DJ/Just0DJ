@@ -10,6 +10,8 @@
   <img alt="just0dj's GitHub profile" src="dark_mode.svg" />
 </picture>
 
+---
+
 🚀 Mechanical Engineering student | Ex - ReConnect Intern| 🏢 Ex - TECH MAHINDRA Intern | 🌌 Robotics & Automation Enthusiast | ⚙️ Builder at MaRS Club | 📷 Photographer
 
 ---
