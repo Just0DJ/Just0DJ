@@ -34,13 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=just0dj&show_icons=true&theme=tokyonight" alt="GitHub stats" height="130"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just0dj&layout=compact&theme=tokyonight" alt="Top Languages" height="130"/>
-</p>
-
 ### 📜 Quote & Recently Played
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day"  height="200"/>
