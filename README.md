@@ -16,25 +16,21 @@
 
 ---
 
-## 🌟 About Me
+## **About Me**
 - 🔭 Currently exploring **Robotics & Automation & Battery Tech**
 - 🛰️ Member of **MaRS Rover Society** (Mechanical team – design & assembly)
-- 🏢 Ex - Summer Mechanical/Data engineer intern at Tech Mahindra
-- 🎨 Hobbies: Photography, Sketching, Poetry
-- 🎯 Goal: Graduate with a content life & explore opportunities abroad
+- **Experience**:
+- 🏢 Ex - Tech IOT intern at **ReConnect energy solutions pvt ltd**
+- 🏢 Ex - Mechanical, Data engineer intern at **Tech Mahindra Electronic city Ph 2**
+- **Hobbies**:
+- ✨ Photography, Sketching, Poetry
+- 🎯 Goal: Graduate with a content life
 - 🎵 Fav Anime: *The Fullmetal Alchemist: 鋼の錬金術師*  
-- 👀 Procrastinating till the deadline  
+- 👀 Procrastinating till the end
 
 ---
 
-## 🛠️ Tech & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=autodeskfusion360,solidworks,cpp,python,html,css,javascript,mysql,git,github,autocad" />
-</p>
-
----
-
-### 📜 Quote & Recently Played
+## 📜 Quote & Recently Played
 
 <p align="center">
   <a href="https://www.last.fm/user/Just0DJ">
