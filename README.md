@@ -19,10 +19,12 @@
 ### **About Me**
 - 🔭 Currently exploring **Robotics & Automation & Battery Tech**
 - 🛰️ Member of **MaRS Rover Society** (Mechanical team – design & assembly)
-- **Experience**:
+
+**Experience**:
 - 🏢 Ex - Tech IOT intern at **ReConnect energy solutions pvt ltd**
 - 🏢 Ex - Mechanical, Data engineer intern at **Tech Mahindra Electronic city Ph 2**
-- **Hobbies**:
+
+**Hobbies**:
 - ✨ Photography, Sketching, Poetry
 - 🎯 Goal: Graduate with a content life
 - 🎵 Fav Anime: *The Fullmetal Alchemist: 鋼の錬金術師*  
